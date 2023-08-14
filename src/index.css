@@ -1,0 +1,45 @@
+*{
+  margin: auto;
+  padding: 5px;
+  font-size: 20px;
+}
+
+
+.inp {
+ margin: 10px;
+ margin-top: 50px;
+padding: 10px;
+}
+.hi{
+  display: flex;
+font-size: 40px;
+color: rgb(0, 0, 0);
+align-items: center;
+margin-right: 100px;
+}
+
+.main {
+  
+ align-items: center;
+}
+
+.btn{
+  border: 2px , solid;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.dlt {
+  margin: 50px;
+  padding: 10px;
+  border: solid 2px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+ul li {
+  font-size: 30px;
+  margin: 20px;
+
+}
